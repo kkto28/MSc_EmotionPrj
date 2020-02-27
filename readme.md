@@ -15,7 +15,7 @@ DB_COL="EmotionCol"
 3)Program run under python terminal
 python.exe "twittercrawler.py"
 
-4) twittercrawler.py 
+4)twittercrawler.py 
 contains three classes and main for execution
 -TwitterCrawler, tweets crawling, filtering, processing, and storing
 -TextCleanProcessor, cleaning data e.g. removing stopwords, repeat words, punctuation, tokenization
