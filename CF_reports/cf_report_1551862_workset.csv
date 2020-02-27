@@ -1,0 +1,4 @@
+id,external_id,judgments_count,missed_count,golds_count,forgiven_count,channel,country,region,city,last_ip,flagged_at,rejected_at,bonus,flag_reason,trust_overall,submission_rate
+20225558,snowcauldron,48,0,0,0,instagc,GBR,C3,Cambridge,92.18.26.92,,,0,,1,480
+45351233,jamtoastguy,4,0,0,0,instagc,GBR,I3,Gillingham,94.11.188.244,,,0,,1,0
+45377221,61225,48,0,0,0,feca,GBR,E4,Maldon,86.148.87.143,,,0,,1,480

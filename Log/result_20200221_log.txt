@@ -1,0 +1,80 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\KKTo\DataScience\Web Science\Coursework\Emotion> conda activate base
+PS C:\Users\KKTo\DataScience\Web Science\Coursework\Emotion>  & C:/Users/KKTo/Anaconda3/python.exe "c:/Users/KKTo/DataScience/Web Science/Coursework/Emotion/twittercrawler.py"
+start *********02/22/2020, 00:15:02
+-------------excite OR excitement OR :rolling_on_the_floor_laughing: OR :face_with_tears_of_joy: -filter:retweets
+processing....pls. wait
+finished fetching...
+skip overlap 0     
+skip short text 254
+skip replicated 0  
+total emoji count 375
+data crawl duration s 0:00:13.167825
+data process duration s 0:00:02.506640
+total duration s 0:00:15.674465
+-------------
+-------------happy OR joy OR :grinning_face: OR :grinning_face_with_big_eyes: OR :grinning_face_with_smiling_eyes: OR :face_blowing_a_kiss: -filter:retweets
+processing....pls. wait
+finished fetching...
+skip overlap 0
+skip short text 174
+skip replicated 2
+total emoji count 221
+data crawl duration s 0:00:09.459370
+data process duration s 0:00:00.548531
+total duration s 0:00:10.007901
+-------------
+-------------pleasant OR :slightly_smiling_face: OR :upside-down_face: -filter:retweets
+processing....pls. wait
+finished fetching...
+skip overlap 0
+skip short text 152
+skip replicated 2
+total emoji count 278
+data crawl duration s 0:00:09.879854
+data process duration s 0:00:00.458771
+total duration s 0:00:10.338625
+-------------
+-------------surprise OR sad OR frustration OR :face_with_open_mouth: -filter:retweets
+processing....pls. wait
+finished fetching...
+skip overlap 1
+skip short text 113
+skip replicated 5
+total emoji count 87
+data crawl duration s 0:00:07.879674
+data process duration s 0:00:00.481712
+total duration s 0:00:08.361386
+-------------
+-------------fear OR depression OR disgust OR :fearful_face: OR :anxious_face_with_sweat: OR :face_screaming_in_fear: -filter:retweets
+processing....pls. wait
+finished fetching...
+skip overlap 2
+skip short text 73
+skip replicated 5
+total emoji count 98
+data crawl duration s 0:00:08.077847
+data process duration s 0:00:00.409941
+total duration s 0:00:08.487788
+-------------
+-------------angry OR :face_with_steam_from_nose: OR :pouting_face: OR :angry_face: OR :face_with_symbols_on_mouth: OR :angry_face_with_horns: -filter:retweets
+processing....pls. wait
+finished fetching...
+skip overlap 0
+skip short text 199
+skip replicated 7
+total emoji count 329
+data crawl duration s 0:00:12.238624
+data process duration s 0:00:00.332158
+total duration s 0:00:12.570782
+-------------
+Tweets saved to db....
+
+storage duration s 0:00:00.047864
+end*********02/22/2020, 00:15:02
+duration********* s 0:01:05.533564
+PS C:\Users\KKTo\DataScience\Web Science\Coursework\Emotion>
